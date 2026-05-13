@@ -141,7 +141,7 @@
 
 2. **克隆/下载本项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DragonTang-AI/Nekketsu.git
    # 或直接解压项目压缩包
    ```
 
@@ -410,7 +410,10 @@ cc.resources.load('data/stage', cc.JsonAsset, (err, json) => {
 
 ## 📧 联系方式
 
-如有问题或建议，请提交 Issue 或联系开发者。
+- **电话**: +86 18195603692
+- **GitHub Issues**: [提交 Issue](https://github.com/DragonTang-AI/Nekketsu/issues)
+
+如有问题或建议，欢迎联系开发者！
 
 ---
 
