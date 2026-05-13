@@ -1,0 +1,215 @@
+
+skeleton.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+......
+  rotate: true
+  xy: 989, 332
+  size: 94, 6
+  orig: 94, 6
+  offset: 0, 0
+  index: -1
+face_knio_1
+  rotate: true
+  xy: 544, 158
+  size: 320, 275
+  orig: 320, 275
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 770, 729
+  size: 291, 252
+  orig: 291, 252
+  offset: 0, 0
+  index: -1
+icon_1
+  rotate: false
+  xy: 770, 515
+  size: 170, 212
+  orig: 170, 212
+  offset: 0, 0
+  index: -1
+icon_2
+  rotate: false
+  xy: 942, 523
+  size: 73, 204
+  orig: 73, 204
+  offset: 0, 0
+  index: -1
+name_fish
+  rotate: true
+  xy: 544, 480
+  size: 540, 224
+  orig: 540, 224
+  offset: 0, 0
+  index: -1
+你怎么现在才说！
+  rotate: true
+  xy: 915, 213
+  size: 300, 35
+  orig: 300, 35
+  offset: 0, 0
+  index: -1
+出事啦！国夫！
+  rotate: false
+  xy: 544, 86
+  size: 257, 34
+  orig: 257, 34
+  offset: 0, 0
+  index: -1
+哦！！！想起来了！
+  rotate: false
+  xy: 2, 26
+  size: 340, 34
+  orig: 340, 34
+  offset: 0, 0
+  index: -1
+嗯呐！
+  rotate: true
+  xy: 989, 428
+  size: 93, 33
+  orig: 93, 33
+  offset: 0, 0
+  index: -1
+嗯！？怎么了？
+  rotate: false
+  xy: 544, 122
+  size: 262, 34
+  orig: 262, 34
+  offset: 0, 0
+  index: -1
+国夫_？
+  rotate: true
+  xy: 988, 102
+  size: 117, 34
+  orig: 117, 34
+  offset: 0, 0
+  index: -1
+并没有拦你...
+  rotate: false
+  xy: 544, 50
+  size: 249, 34
+  orig: 249, 34
+  offset: 0, 0
+  index: -1
+我要去救他！说什么都没用！ 不要拦我！
+  rotate: true
+  xy: 821, 7
+  size: 506, 92
+  orig: 506, 92
+  offset: 0, 0
+  index: -1
+特写对话框.jpg
+  rotate: false
+  xy: 2, 62
+  size: 540, 958
+  orig: 540, 958
+  offset: 0, 0
+  index: -1
+美..沙..子..？
+  rotate: false
+  xy: 486, 13
+  size: 244, 35
+  orig: 244, 35
+  offset: 0, 0
+  index: -1
+美沙子被绑架了！
+  rotate: true
+  xy: 952, 221
+  size: 300, 35
+  orig: 300, 35
+  offset: 0, 0
+  index: -1
+美沙子？
+  rotate: false
+  xy: 344, 25
+  size: 140, 35
+  orig: 140, 35
+  offset: 0, 0
+  index: -1
+被绑架了...
+  rotate: true
+  xy: 915, 3
+  size: 208, 35
+  orig: 208, 35
+  offset: 0, 0
+  index: -1
+那我去了！
+  rotate: true
+  xy: 952, 42
+  size: 177, 34
+  orig: 177, 34
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 794,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_fish_1
+  rotate: false
+  xy: 502, 13
+  size: 228, 279
+  orig: 228, 279
+  offset: 0, 0
+  index: -1
+face_fish_2
+  rotate: false
+  xy: 564, 511
+  size: 228, 279
+  orig: 228, 279
+  offset: 0, 0
+  index: -1
+face_knio_2
+  rotate: false
+  xy: 278, 9
+  size: 222, 280
+  orig: 222, 280
+  offset: 0, 0
+  index: -1
+face_knio_3
+  rotate: false
+  xy: 2, 291
+  size: 294, 280
+  orig: 294, 280
+  offset: 0, 0
+  index: -1
+face_knio_4
+  rotate: false
+  xy: 298, 294
+  size: 264, 277
+  orig: 264, 277
+  offset: 0, 0
+  index: -1
+face_knio_5
+  rotate: false
+  xy: 2, 6
+  size: 274, 283
+  orig: 274, 283
+  offset: 0, 0
+  index: -1
+name_kniio
+  rotate: false
+  xy: 2, 573
+  size: 540, 217
+  orig: 540, 217
+  offset: 0, 0
+  index: -1
+她怎么了！？
+  rotate: false
+  xy: 564, 475
+  size: 222, 34
+  orig: 222, 34
+  offset: 0, 0
+  index: -1
+靓仔！
+  rotate: false
+  xy: 564, 438
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1

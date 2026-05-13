@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 685,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 575, 413
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 575, 219
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+dafengche
+  rotate: false
+  xy: 601, 626
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+dakeline_1
+  rotate: false
+  xy: 2, 334
+  size: 413, 200
+  orig: 413, 200
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: true
+  xy: 439, 152
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+lanfeng
+  rotate: false
+  xy: 521, 150
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: false
+  xy: 2, 242
+  size: 366, 43
+  orig: 366, 43
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: false
+  xy: 2, 536
+  size: 565, 69
+  orig: 565, 69
+  offset: 0, 0
+  index: -1
+line_3
+  rotate: false
+  xy: 2, 607
+  size: 597, 74
+  orig: 597, 74
+  offset: 0, 0
+  index: -1
+line_4
+  rotate: false
+  xy: 2, 287
+  size: 565, 45
+  orig: 565, 45
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 319, 56
+  size: 118, 184
+  orig: 118, 184
+  offset: 0, 0
+  index: -1
+long_2
+  rotate: false
+  xy: 144, 58
+  size: 173, 182
+  orig: 173, 182
+  offset: 0, 0
+  index: -1
+long_3
+  rotate: true
+  xy: 417, 350
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+long_throw
+  rotate: false
+  xy: 2, 14
+  size: 140, 226
+  orig: 140, 226
+  offset: 0, 0
+  index: -1
+mahe
+  rotate: true
+  xy: 439, 17
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 314,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1chip_1
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_2
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_3
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_4
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_5
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_6
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+none
+  rotate: false
+  xy: 80, 226
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+arm_a
+  rotate: false
+  xy: 73, 125
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+arm_a2
+  rotate: true
+  xy: 2, 5
+  size: 115, 47
+  orig: 115, 47
+  offset: 0, 0
+  index: -1
+arm_a_1
+  rotate: true
+  xy: 260, 230
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+arm_b
+  rotate: false
+  xy: 258, 140
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 220
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 136, 10
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+foot_a
+  rotate: true
+  xy: 169, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+foot_b
+  rotate: true
+  xy: 169, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+head_bruise
+  rotate: false
+  xy: 183, 145
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+leg_a
+  rotate: true
+  xy: 90, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+leg_b
+  rotate: false
+  xy: 212, 3
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 51, 11
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 90, 42
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+tou_05
+  rotate: false
+  xy: 90, 42
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: false
+  xy: 113, 139
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+tou_06
+  rotate: false
+  xy: 113, 139
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+tou_03
+  rotate: false
+  xy: 169, 44
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+tou_04
+  rotate: false
+  xy: 80, 231
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+tou_07
+  rotate: false
+  xy: 80, 231
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+wp_box
+  rotate: true
+  xy: 2, 122
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+wp_iron
+  rotate: true
+  xy: 113, 125
+  size: 12, 76
+  orig: 12, 76
+  offset: 0, 0
+  index: -1
+wp_stick
+  rotate: false
+  xy: 294, 156
+  size: 11, 72
+  orig: 11, 72
+  offset: 0, 0
+  index: -1
+wp_trashcan
+  rotate: true
+  xy: 169, 233
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1

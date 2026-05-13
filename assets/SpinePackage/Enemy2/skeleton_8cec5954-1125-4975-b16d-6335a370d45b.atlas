@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 295,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+driver
+  rotate: true
+  xy: 2, 38
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+flag_1
+  rotate: true
+  xy: 262, 190
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+flag_2
+  rotate: true
+  xy: 262, 142
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+flag_3
+  rotate: true
+  xy: 262, 241
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+flag_4
+  rotate: false
+  xy: 2, 4
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+motorcycle
+  rotate: false
+  xy: 2, 140
+  size: 219, 151
+  orig: 219, 151
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 223, 182
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: false
+  xy: 172, 52
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1

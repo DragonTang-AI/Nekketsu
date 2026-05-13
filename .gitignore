@@ -1,0 +1,42 @@
+# OSystem Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cocos Creator
+library/
+local/
+temp/
+build/
+native/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# User specific
+settings/project.json
+
+# Mac
+._*
+
+# Windows
+Desktop.ini
+System Volume Information/

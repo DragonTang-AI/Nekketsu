@@ -1,0 +1,293 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_1
+  rotate: false
+  xy: 492, 51
+  size: 57, 98
+  orig: 57, 98
+  offset: 0, 0
+  index: -1
+a_arm_2
+  rotate: true
+  xy: 505, 436
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+a_leg_1
+  rotate: true
+  xy: 453, 2
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+a_leg_2
+  rotate: false
+  xy: 727, 800
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+attack1_fire0001
+  rotate: false
+  xy: 336, 32
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+attack1_fire0002
+  rotate: false
+  xy: 526, 619
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+attack1_fire0003
+  rotate: false
+  xy: 526, 706
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+attack1_fire0004
+  rotate: false
+  xy: 505, 509
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+attack1_fire0005
+  rotate: false
+  xy: 523, 342
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+attack1_fire0006
+  rotate: false
+  xy: 546, 167
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+attack2_1
+  rotate: false
+  xy: 2, 573
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+attack2_2
+  rotate: true
+  xy: 788, 852
+  size: 170, 223
+  orig: 170, 223
+  offset: 0, 0
+  index: -1
+attack2_3
+  rotate: false
+  xy: 302, 818
+  size: 246, 204
+  orig: 246, 204
+  offset: 0, 0
+  index: -1
+attack_1
+  rotate: true
+  xy: 189, 136
+  size: 195, 178
+  orig: 195, 178
+  offset: 0, 0
+  index: -1
+attack_2
+  rotate: false
+  xy: 187, 333
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+attack_3
+  rotate: false
+  xy: 2, 808
+  size: 298, 214
+  orig: 298, 214
+  offset: 0, 0
+  index: -1
+attack_4
+  rotate: true
+  xy: 550, 845
+  size: 177, 236
+  orig: 177, 236
+  offset: 0, 0
+  index: -1
+b_arm_1
+  rotate: false
+  xy: 523, 249
+  size: 44, 91
+  orig: 44, 91
+  offset: 0, 0
+  index: -1
+b_arm_2
+  rotate: false
+  xy: 411, 2
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+b_leg_1
+  rotate: true
+  xy: 490, 2
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+b_leg_2
+  rotate: true
+  xy: 608, 560
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+batons
+  rotate: false
+  xy: 562, 521
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+becaught
+  rotate: true
+  xy: 2, 58
+  size: 266, 128
+  orig: 266, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 189, 11
+  size: 123, 145
+  orig: 123, 145
+  offset: 0, 0
+  index: -1
+bruise
+  rotate: false
+  xy: 343, 610
+  size: 181, 206
+  orig: 181, 206
+  offset: 0, 0
+  index: -1
+danger
+  rotate: true
+  xy: 132, 17
+  size: 307, 55
+  orig: 307, 55
+  offset: 0, 0
+  index: -1
+effect_attack_1
+  rotate: false
+  xy: 550, 798
+  size: 175, 45
+  orig: 175, 45
+  offset: 0, 0
+  index: -1
+effect_attack_2
+  rotate: false
+  xy: 369, 193
+  size: 175, 43
+  orig: 175, 43
+  offset: 0, 0
+  index: -1
+effect_attack_3
+  rotate: false
+  xy: 369, 151
+  size: 175, 40
+  orig: 175, 40
+  offset: 0, 0
+  index: -1
+effect_attack_4
+  rotate: false
+  xy: 2, 6
+  size: 99, 11
+  orig: 99, 11
+  offset: 0, 0
+  index: -1
+effect_bruise_1
+  rotate: true
+  xy: 187, 541
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+effect_bruise_2
+  rotate: true
+  xy: 523, 6
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+effect_bruise_3
+  rotate: true
+  xy: 608, 521
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+falldown_1
+  rotate: false
+  xy: 2, 326
+  size: 183, 245
+  orig: 183, 245
+  offset: 0, 0
+  index: -1
+falldown_2
+  rotate: true
+  xy: 369, 238
+  size: 178, 152
+  orig: 178, 152
+  offset: 0, 0
+  index: -1
+falldown_3
+  rotate: true
+  xy: 234, 537
+  size: 269, 107
+  orig: 269, 107
+  offset: 0, 0
+  index: -1
+getup
+  rotate: true
+  xy: 351, 418
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 565, 441
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 411, 58
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+head_bruise
+  rotate: true
+  xy: 622, 709
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 19
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
